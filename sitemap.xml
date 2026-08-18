@@ -1,15 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/official/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/download/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/download/windows/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/download/android/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/download/ios/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/download/mac/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/vpn/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/security/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/security/fake-sites/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/faq/</loc></url>
-  <url><loc>https://jiranruciwomenhai.github.io/youtu-official/about/</loc></url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/official/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/download/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/download/windows/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/download/android/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/download/ios/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/download/mac/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/vpn/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/security/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/security/fake-sites/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/faq/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jiranruciwomenhai.github.io/youtu-official/about/</loc>
+    <lastmod>2026-08-18</lastmod>
+  </url>
+
 </urlset>
