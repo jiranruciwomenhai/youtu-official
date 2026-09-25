@@ -5,7 +5,7 @@
 ## 访问地址
 
 - 内容站：https://jiranruciwomenhai.github.io/youtu-official/
-- 当前主推官网：https://youtujsq9.net/
+- 优途官网：https://youtujsq9.net/
 - 另一官方网站：https://yuutto.com/
 - 官方帮助：https://youtujsq9.net/course.html
 
