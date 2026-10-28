@@ -506,3 +506,15 @@ a:focus-visible,button:focus-visible{outline:3px solid #69a7ff;outline-offset:3p
 .page-home .trust-row a{color:#e9f3ff;text-decoration:underline;text-underline-offset:3px;font-weight:750}
 .page-home .trust-row a:hover{color:#ffffff}
 @media(max-width:720px){.hero .hero-text,.highlight-panel > div > p:not(.eyebrow),.final-cta > div > p:not(.eyebrow){color:#f2f6ff!important}}
+
+/* Readable article and platform detail refinements */
+.page-article .content p,.page-article .content li{line-height:1.88}
+.page-article .content h2{scroll-margin-top:112px}
+.page-article .content .compare-table{overflow-x:auto;max-width:100%}
+.page-article .content .compare-table table{min-width:560px}
+.page-article .content .notice{border-left:4px solid #4b63e8}
+.page-article .content .steps li{padding-top:3px;padding-bottom:3px}
+.page-download-hub .platform-grid{align-items:stretch}
+.page-download-hub .platform-card{display:flex;flex-direction:column}
+.page-download-hub .platform-card .platform-actions{margin-top:auto;padding-top:16px}
+@media(max-width:640px){.page-article .content p,.page-article .content li{font-size:15.6px;line-height:1.82}.page-article .content .compare-table{margin-left:-4px;margin-right:-4px}.page-download-hub .platform-card{padding:22px}}
