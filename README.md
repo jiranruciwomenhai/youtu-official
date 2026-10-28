@@ -3,7 +3,7 @@
 这是一个面向公开访问者的优途加速器使用说明站点，提供官网入口、客户端下载、首次连接步骤和常见问题排查。
 
 - 网站地址：https://jiranruciwomenhai.github.io/youtu-official/
-- 官网入口：https://youtujsq9.net/
+- 优途加速器官网域名：youtujsq9.net 、 yuutto.com。
 - 官方帮助页：https://youtujsq9.net/course.html
 
 你可以在这里找到：

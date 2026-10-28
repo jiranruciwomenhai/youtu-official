@@ -449,3 +449,27 @@ a:focus-visible,button:focus-visible{outline:3px solid #69a7ff;outline-offset:3p
 @media(max-width:1020px){.page-home .compact-process .highlight-panel{grid-template-columns:1fr}.page-home .compact-process .route-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:720px){.hero-home{padding:50px 0 62px}.hero-home h1{font-size:clamp(35px,9vw,46px)}.hero-small{padding:50px 0 73px}.section{padding:45px 0}.page-home .compact-process{padding:24px 0 35px}.page-home .compact-process .route-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.page-home .compact-process .highlight-panel{padding:20px}.page-article .content{font-size:15.8px}.card{padding:22px}.page-article .section:first-of-type .content{padding:22px 18px}}
 @media(max-width:420px){.page-home .compact-process .route-grid{grid-template-columns:1fr}.hero-visual{min-height:260px}.site-header .site-nav.is-open{grid-template-columns:1fr 1fr}}
+
+/* Contrast and clarity hotfix */
+.page-home .metric-row{display:none!important}
+.highlight-panel .route-card,
+.highlight-panel .route-card h3,
+.highlight-panel .route-card p,
+.highlight-panel .route-card a{color:#14234a!important}
+.highlight-panel .route-card p{color:#3f5174!important;opacity:1!important}
+.highlight-panel .route-card a{color:#2446cd!important;text-decoration-color:rgba(36,70,205,.3)}
+.highlight-panel .route-card a:hover{color:#142e9e!important}
+.highlight-panel > div > p:not(.eyebrow),
+.highlight-panel p:not(.eyebrow):not(.route-card p){color:#e8efff!important;opacity:1!important}
+.final-cta p:not(.eyebrow),
+.content .final-cta p:not(.eyebrow),
+.section .final-cta p:not(.eyebrow){color:#eaf0ff!important;opacity:1!important}
+.final-cta h2,.highlight-panel h2{color:#fff!important}
+.hero .hero-text{color:#e8f0ff!important;opacity:1!important}
+.hero .eyebrow{color:#d8e6ff!important}
+.page-standard .content>.official-domain{display:flex;flex-wrap:wrap;gap:10px;background:#edf2ff;border:1px solid #d4e0ff}
+.page-standard .content>.official-domain a{color:#1d3caa!important;font-weight:900;text-decoration:none}
+.page-standard .content>.official-domain a:hover{text-decoration:underline}
+.page-standard .content>.notice{color:#263e72!important}
+.page-standard .content>.notice a{color:#2043b8!important;font-weight:800}
+@media (max-width:720px){.highlight-panel .route-card p{color:#3f5174!important}.final-cta p:not(.eyebrow){color:#eaf0ff!important}}
