@@ -518,3 +518,9 @@ a:focus-visible,button:focus-visible{outline:3px solid #69a7ff;outline-offset:3p
 .page-download-hub .platform-card{display:flex;flex-direction:column}
 .page-download-hub .platform-card .platform-actions{margin-top:auto;padding-top:16px}
 @media(max-width:640px){.page-article .content p,.page-article .content li{font-size:15.6px;line-height:1.82}.page-article .content .compare-table{margin-left:-4px;margin-right:-4px}.page-download-hub .platform-card{padding:22px}}
+
+/* Service troubleshooting navigation */
+.platform-guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:22px 0 28px}
+.platform-guide-card{display:flex;flex-direction:column;align-items:flex-start;gap:10px;padding:23px 24px;border:1px solid #d8e3f6;border-radius:22px;background:#fff;color:#102858;text-decoration:none;box-shadow:0 8px 22px rgba(28,48,94,.045);min-width:0;transition:transform .2s,box-shadow .2s,border-color .2s}
+.platform-guide-card strong{font-size:1.07rem;color:#142a60;line-height:1.4}.platform-guide-card span{font-size:.93rem;color:#52637f;line-height:1.7}.platform-guide-card em{font-size:.88rem;font-style:normal;color:#244bd5;font-weight:700;margin-top:auto}.platform-guide-card:hover,.platform-guide-card:focus-visible{transform:translateY(-2px);border-color:#8ca9ed;box-shadow:0 14px 28px rgba(28,48,94,.1)}
+@media(max-width:850px){.platform-guide-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.platform-guide-grid{grid-template-columns:1fr;gap:12px}.platform-guide-card{padding:18px 20px;border-radius:17px}}
