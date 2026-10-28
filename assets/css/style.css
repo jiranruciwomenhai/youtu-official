@@ -1400,3 +1400,11 @@ code {
     min-width: 560px;
   }
 }
+
+.tutorial-figure{margin:1.5rem auto;max-width:860px;text-align:center}.tutorial-figure img{display:block;max-width:100%;width:auto;max-height:650px;height:auto;margin:auto;border-radius:12px;border:1px solid rgba(140,150,230,.24)}.tutorial-figure figcaption{font-size:.85rem;color:var(--muted,#9094ad);margin-top:.5rem}.help-more{margin:2rem 0;padding:1.25rem;border:1px solid rgba(140,150,230,.22);border-radius:14px}.help-more ul{display:grid;gap:.45rem;padding-left:1.3rem}
+/* Tutorial screenshots and membership tables */
+.content figure{margin:1.5rem auto;max-width:820px;text-align:center}
+.content figure img{display:block;max-width:100%;width:auto;max-height:650px;height:auto;object-fit:contain;margin:0 auto;border-radius:12px;border:1px solid rgba(140,150,230,.24)}
+.content figure figcaption{margin-top:.55rem;color:var(--muted,#9094ad);font-size:.88rem;line-height:1.55}
+.content .table-wrap{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.content .table-wrap table{min-width:540px}

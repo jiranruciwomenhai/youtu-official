@@ -31,3 +31,10 @@
 项目为纯静态 HTML，可直接托管在 GitHub Pages。将仓库的 Pages 发布源指向包含 `index.html` 的分支和目录即可。
 
 如果更换仓库名或绑定自定义域名，请同步修改页面中的 canonical、Open Graph URL、sitemap.xml 和 robots.txt，确保所有规范 URL 保持一致。
+
+
+## 第二轮实用性优化（2026-10-28）
+
+重写 Windows、Android、iOS、Mac 下载/安装指南，补充 Windows 和 Android 实图；完善会员找回与到账、积分卡密、并发设备、TikTok/Telegram、客服等 10 个内容页面。此轮未新增 URL，保留原 sitemap 与页面 canonical。
+
+发布前需要：核实官网四个平台的最终下载目标与系统兼容要求；以实际设备检查图片比例和移动端样式；在 Search Console 查看索引和性能；不要把截图内实时延迟当作固定性能。
