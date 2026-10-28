@@ -1,19 +1,16 @@
 # 优途加速器使用指南
 
-提供优途加速器的下载入口、安装步骤、节点选择、套餐说明和常见连接问题的使用帮助。
+这是一个面向公开访问者的优途加速器使用说明站点，提供官网入口、客户端下载、首次连接步骤和常见问题排查。
 
-**查看网站：** https://jiranruciwomenhai.github.io/youtu-official/
+- 网站地址：https://jiranruciwomenhai.github.io/youtu-official/
+- 官网入口：https://youtujsq9.net/
+- 官方帮助页：https://youtujsq9.net/course.html
 
-**优途加速器官网：** https://youtujsq9.net/
-
-**官方使用帮助：** https://youtujsq9.net/course.html
-
-## 可以在这里找到什么？
+你可以在这里找到：
 
 - Windows、Android、iPhone / iPad 和 Mac 的下载与安装说明
-- 首次连接、选择节点、连接模式及跨设备使用
-- VIP / SVIP 套餐、设备数量、账号与积分问题
-- 网页打不开、连接缓慢和常见应用故障排查
-- 下载来源与账号安全相关提醒
+- 第一次连接、节点选择、连接模式和常见排障
+- 套餐、设备数量、账号与积分等常见问题
+- 常见服务场景的使用与排查建议
 
 有关订单、账户或套餐的具体问题，请通过优途加速器客户端中的官方服务联系人工客服。
