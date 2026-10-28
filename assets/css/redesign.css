@@ -473,3 +473,36 @@ a:focus-visible,button:focus-visible{outline:3px solid #69a7ff;outline-offset:3p
 .page-standard .content>.notice{color:#263e72!important}
 .page-standard .content>.notice a{color:#2043b8!important;font-weight:800}
 @media (max-width:720px){.highlight-panel .route-card p{color:#3f5174!important}.final-cta p:not(.eyebrow){color:#eaf0ff!important}}
+
+/* Official page: readable, direct and compact */
+.official-hero{padding:66px 0 72px!important}
+.official-hero h1{font-size:clamp(34px,4.8vw,56px);margin:10px 0 12px}
+.official-hero .hero-text{font-size:clamp(17px,1.65vw,20px);color:#f0f5ff!important;max-width:860px;line-height:1.6;margin:0}
+.official-hero-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:27px}
+.official-hero-links .button{display:inline-flex;justify-content:center;align-items:center;padding:12px 22px;text-decoration:none;min-height:48px}
+.official-hero-links .button-secondary{background:rgba(255,255,255,.13);color:#fff!important;border-color:rgba(255,255,255,.55)}
+.official-content{padding-top:52px!important}
+.official-content .content{max-width:930px}
+.official-content .content h2:first-child{margin-top:0;border:0;padding:0}
+.official-action-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:20px 0 36px}
+.official-action{display:flex;flex-direction:column;gap:8px;padding:26px;border:1px solid #dce5f3;background:#fff;border-radius:22px;box-shadow:0 8px 22px rgba(15,35,75,.05);text-decoration:none!important}
+.official-action strong{font-size:21px;color:#152c66}
+.official-action span{color:#4d5b76;font-size:15px;line-height:1.6}
+.official-action em{font-style:normal;color:#314bd6;font-weight:800;margin-top:6px}
+.official-action:hover{border-color:#afc4fa;transform:translateY(-2px);box-shadow:0 16px 32px rgba(15,35,75,.1)}
+.official-content .notice{color:#2e4166!important;background:#f0f5ff!important;border:1px solid #d6e3f7}
+@media(max-width:640px){.official-hero{padding:46px 0 52px!important}.official-hero-links{flex-direction:column}.official-hero-links .button{width:100%}.official-action-grid{grid-template-columns:1fr}.official-content{padding-top:28px!important}}
+
+/* Consistent text contrast on dark panels and light inner cards */
+.hero,.highlight-panel,.final-cta{color:#ffffff}
+.hero .hero-text,.hero .hero-copy > p:not(.eyebrow),
+.highlight-panel > div > p:not(.eyebrow),
+.final-cta > div > p:not(.eyebrow){color:#edf3ff!important;opacity:1!important}
+.highlight-panel .route-card,.highlight-panel .route-card h3{color:#10214a!important}
+.highlight-panel .route-card p{color:#405273!important;opacity:1!important}
+.highlight-panel .route-card a{color:#1f45c7!important}
+.hero .button-secondary,.highlight-panel .button-secondary{color:#fff!important}
+.hero .button-primary,.final-cta .button-primary{color:#1d3597!important}
+.page-home .trust-row a{color:#e9f3ff;text-decoration:underline;text-underline-offset:3px;font-weight:750}
+.page-home .trust-row a:hover{color:#ffffff}
+@media(max-width:720px){.hero .hero-text,.highlight-panel > div > p:not(.eyebrow),.final-cta > div > p:not(.eyebrow){color:#f2f6ff!important}}
